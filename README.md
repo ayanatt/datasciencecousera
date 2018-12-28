@@ -1,2 +1,2 @@
-# datasciencecousera
+# datasciencecoursera
 completion of data science
